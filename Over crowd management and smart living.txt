@@ -12,4 +12,7 @@ COMPONENTS USED:
 *ir flame sensor
 *potentiometer
 *buzzer
+CONNECTIONS:
+
+
 
