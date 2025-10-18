@@ -1,2 +1,15 @@
 THEME:SUSTAINABLE LIVING  & SMART INFRASTRUCTURE
 PROBLEM STATEMENT:OVERCROWD MANAGEMENT AND SMART LIVING 
+COMPONENTS USED:
+*breadboard
+*connecting wires
+* ir sensors(2)
+*arduino UNO
+*dht11 sensor
+*relay modules (2)
+*led light 
+*dc motor
+*ir flame sensor
+*potentiometer
+*buzzer
+
