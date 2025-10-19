@@ -51,6 +51,7 @@ Future Enhancements:
 *Add temperature monitoring.
 *Send alerts to mobile via IoT (ESP8266 + Blynk/MQTT).
 *include smoke and gas detection.
-use ultrasonic sensors instead of IR for better accurac
+*use ultrasonic sensors instead of IR for better accuracy
+
 
 
